@@ -1,0 +1,9 @@
+name: wrong-dependency-version-test
+version: "0.0.0"
+
+dependencies:
+  - base
+  - yesod-job-queue
+
+library:
+  source-dirs: src

@@ -1,0 +1,8 @@
+resolver: lts-20.24
+
+packages:
+  - .
+
+extra-deps:
+  - git: git@github.com:dariooddenino/yesod-job-queue
+    commit: a8b0354328d0fbdf45ed71824cf8a38c2b73c263
